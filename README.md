@@ -23,14 +23,38 @@ Details about the Adelphi Pool Layout
 * The depth at the finish side is 3 ft across, and becomes 4 ft maybe 10 ft after the expansion joint (maybe the 25 m point?) and then 3 ft the rest of the
 way in starting another 12 ft further.
 
-# Questions
+# Questions about the Pool
 
 1. Are the ladders removable?
 2. Are the guard chairs anchored and removable, or are the all portable?  A note seems to indicate they are movable.
 3. They depict starting block anchors on the pool house side.  We don't need anchors.
 4. Are the diving boards removable?
+5. It seems there are some electrical outlets at the far side of the competition pool to the left about 25 ft from the edge of the pool at marker 11. There
+   are also some along the fence on the opposite side (no number listed).  We need to identify a place for the computer stuff, as well as possibly
+   location for ethernet (via conduit) and wifi.
+6. How much room is there from the pool to the fence?  I can't find the dimension. It seems like about 20 ft.
 
+# General Questions, Comments,  Topics
+
+1. How many lane ropes do we have right now?  How long are they?  Will they work for both 50m and 25y?
+2. We have 5 10 ft by 10 ft tents.  We'll need to make sure they can line up properly with the 6 lanes and not block starts.
+
+# Notes
+
+1. A few notes - the plans show starting blocks, but we did not include these as they are not used in PMSL.
+   * This answers the question above.
+1. In the 25 m configuration, we'll have a 1 foot gutter and lane ropes on each side of the pool to avoid removing ladders during competition, which means we'll need to buy 7 25m lane ropes to create the 6 lanes.
+  * This doesn't quite answer the removable ladder question, but it seems to mitigate it.
+  * Do we really need to buy ropes for the 25 y/m course?  The 50m course will not be setup simultaneously.
+1. We should not need to buy new ropes for the 50m configuration as we can use our existing ropes.
 
 # USA Swimming Rules for Equipment
 
 # Recommendations
+
+1. We use the far end (away from the pool house) as the start and finish end for event of distance 50, 100, and 200 (medley relay, free relay). This makes lane 1 on the right (when
+looking at the drawing) and lane 6 on the lft.
+2. We use the near end (close to the pool house) as the start end (like Strathmore) and the finish end remains the same as above.
+3. This setup means we can keep the timers in one place vs walking around many times, as well as locate tents at the start end for the swimmers and timers.
+4. Place the computer table at the outlets listed above (marker 11) and cover with a tent (lane 6 side).
+5. Plase the starter at the opposite side and cover with a tent (lane 1 side).  This makes it quicker for a referee to get to the far side (25 yd start, 25 yd turn) for DQ conversations.
