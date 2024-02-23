@@ -6,7 +6,7 @@ Details about the Adelphi Pool Layout
 
 ## Short course pool
 
-* The short course pool length is 82 ft 2 in, which is 25 y.
+* The short course pool length is 82 ft 2 in, which is 25 m.
 * The width is 50 ft (same as old).
 * There are six lanes, and they are 8 ft wide, with a 1 ft gap at each edge. This means we need 7 lane ropes for this distance.
 * The backstroke flags are positioned 15 ft, which is 5 y.
@@ -46,7 +46,7 @@ way in starting another 12 ft further.
    * This answers the question above.
 1. In the 25 y configuration, we'll have a 1 foot gutter and lane ropes on each side of the pool to avoid removing ladders during competition, which means we'll need to buy 7 25m lane ropes to create the 6 lanes.
   * This doesn't quite answer the removable ladder question, but it seems to mitigate it.
-  * Do we really need to buy ropes for the 25 y course?  The 50m course will not be setup simultaneously.
+  * Do we really need to buy ropes for the 25 m course?  The 50m course will not be setup simultaneously.
 1. We should not need to buy new ropes for the 50m configuration as we can use our existing ropes.
 
 # USA Swimming Rules for Equipment
