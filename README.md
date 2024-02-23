@@ -9,7 +9,7 @@ Details about the Adelphi Pool Layout
 * The short course pool length is 82 ft 2 in, which is 25 y.
 * The width is 50 ft (same as old).
 * There are six lanes, and they are 8 ft wide, with a 1 ft gap at each edge. This means we need 7 lane ropes for this distance.
-* The backstroke flags are positioned 15 ft, which is 5 yd, and assumign we are calling this a 25 yd pool
+* The backstroke flags are positioned 15 ft, which is 5 y.
 * The depth at the pool house side starts at 5 ft ending at 12 ft 6 in at the far edge (close to the old start end).
 * The depth at the opposite side is mostly the same, though the grading starts in a different lane.
 
