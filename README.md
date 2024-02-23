@@ -36,7 +36,7 @@ way in starting another 12 ft further.
 
 # General Questions, Comments,  Topics
 
-1. How many lane ropes do we have right now?  How long are they?  Will they work for both 50m and 25y?
+1. How many lane ropes do we have right now?  How long are they?  Will they work for both 50m and 25m?
 2. We have 5 10 ft by 10 ft tents.  We'll need to make sure they can line up properly with the 6 lanes and not block starts.
 3. We'd like to get on site and get a better feel for space, take some non-pool measurements, etc.
 
@@ -44,7 +44,7 @@ way in starting another 12 ft further.
 
 1. A few notes - the plans show starting blocks, but we did not include these as they are not used in PMSL.
    * This answers the question above.
-1. In the 25 y configuration, we'll have a 1 foot gutter and lane ropes on each side of the pool to avoid removing ladders during competition, which means we'll need to buy 7 25m lane ropes to create the 6 lanes.
+1. In the 25 m configuration, we'll have a 1 foot gutter and lane ropes on each side of the pool to avoid removing ladders during competition, which means we'll need to buy 7 25m lane ropes to create the 6 lanes.
   * This doesn't quite answer the removable ladder question, but it seems to mitigate it.
   * Do we really need to buy ropes for the 25 m course?  The 50m course will not be setup simultaneously.
 1. We should not need to buy new ropes for the 50m configuration as we can use our existing ropes.
