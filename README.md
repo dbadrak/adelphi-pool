@@ -38,6 +38,7 @@ way in starting another 12 ft further.
 
 1. How many lane ropes do we have right now?  How long are they?  Will they work for both 50m and 25y?
 2. We have 5 10 ft by 10 ft tents.  We'll need to make sure they can line up properly with the 6 lanes and not block starts.
+3. We'd like to get on site and get a better feel for space, take some non-pool measurements, etc.
 
 # Notes
 
