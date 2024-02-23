@@ -6,7 +6,7 @@ Details about the Adelphi Pool Layout
 
 ## Short course pool
 
-* The short course pool length is 82 ft 2 in, which is 25 m.
+* The short course pool length is 82 ft 2 in, which is 82.17 ft or 25 m (82.252 ft). 
 * The width is 50 ft (same as old).
 * There are six lanes, and they are 8 ft wide, with a 1 ft gap at each edge. This means we need 7 lane ropes for this distance.
 * The backstroke flags are positioned 15 ft, which is 5 y.
