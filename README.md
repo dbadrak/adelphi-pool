@@ -44,9 +44,9 @@ way in starting another 12 ft further.
 
 1. A few notes - the plans show starting blocks, but we did not include these as they are not used in PMSL.
    * This answers the question above.
-1. In the 25 m configuration, we'll have a 1 foot gutter and lane ropes on each side of the pool to avoid removing ladders during competition, which means we'll need to buy 7 25m lane ropes to create the 6 lanes.
+1. In the 25 y configuration, we'll have a 1 foot gutter and lane ropes on each side of the pool to avoid removing ladders during competition, which means we'll need to buy 7 25m lane ropes to create the 6 lanes.
   * This doesn't quite answer the removable ladder question, but it seems to mitigate it.
-  * Do we really need to buy ropes for the 25 y/m course?  The 50m course will not be setup simultaneously.
+  * Do we really need to buy ropes for the 25 y course?  The 50m course will not be setup simultaneously.
 1. We should not need to buy new ropes for the 50m configuration as we can use our existing ropes.
 
 # USA Swimming Rules for Equipment
