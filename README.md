@@ -6,10 +6,10 @@ Details about the Adelphi Pool Layout
 
 ## Short course pool
 
-* The short course pool length is 82 ft 2 in, which is 82.17 ft or 25 m (82.252 ft). 
+* The short course pool length is 82 ft 2 in, which is 82.166 ft or 25 m (82.252 ft). 
 * The width is 50 ft (same as old).
 * There are six lanes, and they are 8 ft wide, with a 1 ft gap at each edge. This means we need 7 lane ropes for this distance.
-* The backstroke flags are positioned 15 ft, which is 5 y.
+* The backstroke flags are positioned 15 ft, which is 5 y not 5 m.
 * The depth at the pool house side starts at 5 ft ending at 12 ft 6 in at the far edge (close to the old start end).
 * The depth at the opposite side is mostly the same, though the grading starts in a different lane.
 
@@ -58,4 +58,4 @@ looking at the drawing) and lane 6 on the lft.
 2. We use the near end (close to the pool house) as the start end (like Strathmore) and the finish end remains the same as above.
 3. This setup means we can keep the timers in one place vs walking around many times, as well as locate tents at the start end for the swimmers and timers.
 4. Place the computer table at the outlets listed above (marker 11) and cover with a tent (lane 6 side).
-5. Plase the starter at the opposite side and cover with a tent (lane 1 side).  This makes it quicker for a referee to get to the far side (25 yd start, 25 yd turn) for DQ conversations.
+5. Plase the starter at the opposite side and cover with a tent (lane 1 side).  This makes it quicker for a referee to get to the far side (25 m start, 25 m turn) for DQ conversations.
