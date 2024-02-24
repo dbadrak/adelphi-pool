@@ -59,3 +59,10 @@ looking at the drawing) and lane 6 on the lft.
 3. This setup means we can keep the timers in one place vs walking around many times, as well as locate tents at the start end for the swimmers and timers.
 4. Place the computer table at the outlets listed above (marker 11) and cover with a tent (lane 6 side).
 5. Plase the starter at the opposite side and cover with a tent (lane 1 side).  This makes it quicker for a referee to get to the far side (25 m start, 25 m turn) for DQ conversations.
+
+# Diagrams
+
+Old pool overhead view from Google Maps (2024-02-22)
+
+[terrain view](images/grounds.terrain.png  "Terrain view")
+[traffic view](images/grounds.traffic.png  "Traffic view")
