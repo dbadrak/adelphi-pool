@@ -8,7 +8,7 @@ Details about the Adelphi Pool Layout
 
 * The short course pool length is 82 ft 2 in, which is 82.166 ft or 25 m (82.252 ft). 
 * The width is 50 ft (same as old).
-* There are six lanes, and they are 8 ft wide, with a 1 ft gap at each edge. This means we need 7 lane ropes for this distance.
+* There are six lanes, and they are 8 ft wide, with a 1 ft gap at each edge. This means we need 7 lane lines for this distance.
 * The backstroke flags are positioned 15 ft, which is 5 y not 5 m.
 * The depth at the pool house side starts at 5 ft ending at 12 ft 6 in at the far edge (close to the old start end).
 * The depth at the opposite side is mostly the same, though the grading starts in a different lane.
@@ -17,7 +17,7 @@ Details about the Adelphi Pool Layout
 
 * The long course pool length is 164 ft 2 in, which is 50.028m (same as old)
 * The width is 50 ft (same as old).
-* There are six lanes, and they are 8 ft wide, with a 1 ft gap at each edge. This means we need 7 lane ropes for this distance.
+* There are six lanes, and they are 8 ft wide, with a 1 ft gap at each edge. This means we need 7 lane lines for this distance.
 * The backstroke flags are positioned 15 ft, which is 5 yd, not 5 m.
 * The depth at the diving board side (old start end, new start end) is 9 ft at lane 1 (close to pool house) and 12 ft 6 in at the opposite side (lane 6).
 * The depth at the finish side is 3 ft across, and becomes 4 ft maybe 10 ft after the expansion joint (maybe the 25 m point?) and then 3 ft the rest of the
@@ -36,18 +36,20 @@ way in starting another 12 ft further.
 
 # General Questions, Comments,  Topics
 
-1. How many lane ropes do we have right now?  How long are they?  Will they work for both 50m and 25m?
+1. How many lane lines do we have right now?  How long are they?  Will they work for both 50m and 25m?  We join 25m lines together to make the 50m length, right?
 2. We have 5 10 ft by 10 ft tents.  We'll need to make sure they can line up properly with the 6 lanes and not block starts.
 3. We'd like to get on site and get a better feel for space, take some non-pool measurements, etc.
+4. Can we get a full diagram of the entire grounds with the new pools shown, including the deck?  Something that shows the fences, operations shed, dolphin shed, steps out the back,
+   volleyball court, fence separating deck and grounds, etc.
 
 # Notes
 
 1. A few notes - the plans show starting blocks, but we did not include these as they are not used in PMSL.
    * This answers the question above.
-1. In the 25 m configuration, we'll have a 1 foot gutter and lane ropes on each side of the pool to avoid removing ladders during competition, which means we'll need to buy 7 25m lane ropes to create the 6 lanes.
+1. In the 25 m configuration, we'll have a 1 foot gutter and lane lines on each side of the pool to avoid removing ladders during competition, which means we'll need to buy 7 25m lane lines to create the 6 lanes.
   * This doesn't quite answer the removable ladder question, but it seems to mitigate it.
-  * Do we really need to buy ropes for the 25 m course?  The 50m course will not be setup simultaneously.
-1. We should not need to buy new ropes for the 50m configuration as we can use our existing ropes.
+  * Do we really need to buy lines for the 25 m course?  The 50m course will not be setup simultaneously.
+1. We should not need to buy new lines for the 50m configuration as we can use our existing lines.
 
 # USA Swimming Rules for Equipment
 
@@ -70,3 +72,16 @@ Old pool overhead view from Google Maps (2024-02-22)
 
 ![terrain view](images/grounds.terrain.png  "Terrain view")
 ![traffic view](images/grounds.traffic.png  "Traffic view")
+
+# Links
+
+* Adelphi Pool [website](https://adelphipool.org)
+  * [Renovation gallery](https://adelphipool.org/renovation-slide-show/) on the pool website.
+  * [Renovation graphics](https://adelphipool.org/renovation-3d-graphics/) on the pool website.
+* [USA Swimming Rulebooks](https://www.usaswimming.org/about-usas/governance/rules-policies#Content_TopResources_Index_Div-1-1)
+  * [2024 Full Rulebook](https://www.usaswimming.org/docs/default-source/governance/governance-lsc-website/rules_policies/rulebooks/2024-rulebook.pdf)
+  * [2024 Mini Rulebook](https://www.usaswimming.org/docs/default-source/governance/governance-lsc-website/rules_policies/rulebooks/2024-mini-rulebook.pdf)
+* PMSL [website](https://princemont.org) [handbook](https://princemont.org/handbook.html)
+  * 2023 Handbook
+  * [2023 Handbook](https://princemont.org/2023/2023_PMSL_Handbook.pdf)
+  * [2022 Handbook](https://princemont.org/2022/2022_PMSL_Handbook.pdf)
