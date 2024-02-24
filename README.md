@@ -61,6 +61,14 @@ way in starting another 12 ft further.
 # Rules for Equipment
 ## USA Swimming
 
+103.1 DEFINITIONS
+ - .1 /M/ = Indicates mandatory requirement for all competition.
+ - .2 /NC/ = Except as noted otherwise, indicates mandatory requirement for USA Swimming
+Championships and International Competition.
+ - .3 /LSC/ = Predicated on facility availability, LSCs may waive strict compliance with these
+requirements in sanctioning local competition.
+ - .4 Where dimensions are given, the dime
+
 ### Number of Lanes
 ### Width per Lane
 ### Depth 
