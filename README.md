@@ -60,7 +60,11 @@ looking at the drawing) and lane 6 on the lft.
 4. Place the computer table at the outlets listed above (marker 11) and cover with a tent (lane 6 side).
 5. Plase the starter at the opposite side and cover with a tent (lane 1 side).  This makes it quicker for a referee to get to the far side (25 m start, 25 m turn) for DQ conversations.
 
-# Diagrams
+# Diagrams and Views
+
+Rough sketch of pool
+
+![Don Badrak sketch](images/dbadrak-sketch.png  "Simplified pool layout")
 
 Old pool overhead view from Google Maps (2024-02-22)
 
