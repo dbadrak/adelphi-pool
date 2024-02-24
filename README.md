@@ -67,17 +67,17 @@ way in starting another 12 ft further.
 ### Depth at turn end
 ### Backstroke Flags
 
-> 103.17 /M/ BACKSTROKE FLAGS AND LINES
-> .1 Design: At least three triangular pennants six (6) to twelve (12) inches in width at the base
-> and twelve (12) to eighteen (18) inches in vertical length, of two or more alternating and contrasting colors shall be suspended on a firmly stretched line over each lane during all warm-up
-> periods and during competition for all backstroke, individual medley and medley relay events.
-> .2 Location:
-> A Long course and short course meters: 5 meters (16 feet 5 inches) from each end of
-> the course, a minimum of 1.8 meters (5 feet 11 inches) to a maximum of 2.5 meters (8
-> feet 3 inches) above the water surface.
-> B Short course yards: 15 feet (4.57 meters) from each end of the course, 7 feet (2.13
-> meters) above the water surface.
-> C Height shall be measured to the horizontal line from which the pennants are suspended
+103.17 /M/ BACKSTROKE FLAGS AND LINES
+- .1 Design: At least three triangular pennants six (6) to twelve (12) inches in width at the base
+and twelve (12) to eighteen (18) inches in vertical length, of two or more alternating and contrasting colors shall be suspended on a firmly stretched line over each lane during all warm-up
+periods and during competition for all backstroke, individual medley and medley relay events.
+- .2 Location:
+  - A Long course and short course meters: 5 meters (16 feet 5 inches) from each end of
+the course, a minimum of 1.8 meters (5 feet 11 inches) to a maximum of 2.5 meters (8
+feet 3 inches) above the water surface.
+  - B Short course yards: 15 feet (4.57 meters) from each end of the course, 7 feet (2.13
+meters) above the water surface.
+  - C Height shall be measured to the horizontal line from which the pennants are suspended
 
 ### Ladders
 
