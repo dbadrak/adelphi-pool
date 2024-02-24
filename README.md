@@ -75,16 +75,7 @@ requirements in sanctioning local competition.
 
 103.2 WATER DEPTH
 - .1 /NC/ 2 meters (6 feet 7 inches) deep throughout the course.
-- .2 /M/ Teaching Racing Starts — Minimum water depth for teaching all racing starts, prior to
-certification, in any setting from any height starting blocks, from backstroke ledges or from the
-deck shall be 6 feet (1.84 meters) measured for a distance of 3 feet 3-1/2 inches (1.0 meter)
-to 16 feet 5 inches (5.0 meters) from the end wall. Teaching racing starts shall only take place
-under the direct supervision of a USA Swimming member coach and shall include:
-  - A All racing start instruction until a swimmer has been certified by his or her USA Swimming member coach as proficient in performing a racing start; and
-  - B Subsequent to certification, instruction which seeks to alter a swimmer’s basic technique in performing a racing start.
-Prior to certification, all racing starts must take place from a position in the water, and without
-use of the backstroke ledge, regardless of pool depth. Subsequent to certification, practicing
-of racing starts may take place in water depth of four (4) feet (1.22 meters) and deeper.
+- .2 /M/ Teaching Racing Starts — ** does not apply, removed **
 - .3 /M/ Racing Starts — Minimum water depth for racing starts during practice and competition
 shall be measured for a distance 3 feet 3-1/2 inches (1.0 meter) to 16 feet 5 inches (5.0
 meters) from the end wall. Starting requirements and height of starting block shall be:
