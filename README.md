@@ -64,5 +64,5 @@ looking at the drawing) and lane 6 on the lft.
 
 Old pool overhead view from Google Maps (2024-02-22)
 
-[terrain view](images/grounds.terrain.png  "Terrain view")
-[traffic view](images/grounds.traffic.png  "Traffic view")
+![terrain view](images/grounds.terrain.png  "Terrain view")
+![traffic view](images/grounds.traffic.png  "Traffic view")
