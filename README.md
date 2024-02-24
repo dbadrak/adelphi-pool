@@ -51,7 +51,9 @@ way in starting another 12 ft further.
   * Do we really need to buy lines for the 25 m course?  The 50m course will not be setup simultaneously.
 1. We should not need to buy new lines for the 50m configuration as we can use our existing lines.
 
-# USA Swimming Rules for Equipment
+# Rules for Equipment
+## USA Swimming
+## PMSL
 
 # Recommendations
 
@@ -82,6 +84,5 @@ Old pool overhead view from Google Maps (2024-02-22)
   * [2024 Full Rulebook](https://www.usaswimming.org/docs/default-source/governance/governance-lsc-website/rules_policies/rulebooks/2024-rulebook.pdf)
   * [2024 Mini Rulebook](https://www.usaswimming.org/docs/default-source/governance/governance-lsc-website/rules_policies/rulebooks/2024-mini-rulebook.pdf)
 * PMSL [website](https://princemont.org) [handbook](https://princemont.org/handbook.html)
-  * 2023 Handbook
-  * [2023 Handbook](https://princemont.org/2023/2023_PMSL_Handbook.pdf)
-  * [2022 Handbook](https://princemont.org/2022/2022_PMSL_Handbook.pdf)
+  * 2043 Handbook
+  * [2023 Handbook](https://princemont.org/2023/2023_PMSL_Handbook.pdf) || [local](documents/2023_PMSL_Handbook.pdf}
