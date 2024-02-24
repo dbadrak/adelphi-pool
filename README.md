@@ -70,7 +70,6 @@ requirements in sanctioning local competition.
  - .4 Where dimensions are given, the dime
 
 ### Number of Lanes
-### Width per Lane
 ### Depth 
 
 103.2 WATER DEPTH
@@ -86,6 +85,29 @@ meters) from the end wall. Starting requirements and height of starting block sh
 Note: Local, state and municipal statutes, ordinances, rules and regulations, may have
 depth limitations in conflict with this section. The LSC and all Member Clubs should check
 for this at all times.
+
+### Dimentions
+
+103.3 RACING COURSE DIMENSIONS
+- .1 /M/ Length.
+  - A Long Course: 50.00 meters (164 feet and 1/2 inch).
+  - B Short Course: 25.00 yards or 25.00 meters (82 feet and 1/4 inch).
+  - C Dimensional Tolerance: Against the required length, a tolerance of minus (-) 0.000
+meters in a vertical plane extending 0.3 meters (12 inches) above and 0.8 meters (2 feet
+7-1/2 inches) below the surface of the water at all points of both end walls. The plus tolerances apply for National, Trials Class, World Aquatics and international competition. See
+the current Operating Policy Manual and World Aquatics Facilities Rules FR2 for details.
+  - D When automatic officiating equipment touch pads are used at one or both ends, the
+course shall be of such length that ensures the required distance between the two touch
+pads or between either pad and the opposite end of the course.
+  - E When the racing course is fixed by the use of movable bulkheads, such bulkheads shall be
+designed to resist lateral deflection due to tension exerted by the attachment of the lane
+dividers to ensure the required course distance in all lanes.
+  - F See Article 104, Rules for Swimming Records, for course measurements requirements.
+- .2 Width.
+  - A /NC/ Eight or ten lanes, minimum width of 2.5 meters (8 feet 2-1/2 inches), from center line
+to center line of the lane dividers, with approximately 0.45 meters (1 foot 6 inches) of additional open water outside lanes 1 and 8 (or 10). The Program & Events Coordinator (or his/
+her designee) may waive this requirement for National Championships.
+  - B /LSC/ Minimum lane width for competitive swimming shall be 7 feet (2.13 meters).
 
 ### Backstroke Flags
 
