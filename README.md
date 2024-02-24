@@ -75,7 +75,7 @@ requirements in sanctioning local competition.
 
 103.2 WATER DEPTH
 - .1 /NC/ 2 meters (6 feet 7 inches) deep throughout the course.
-- .2 /M/ Teaching Racing Starts — ** does not apply, removed **
+- .2 /M/ Teaching Racing Starts — **does not apply, removed**
 - .3 /M/ Racing Starts — Minimum water depth for racing starts during practice and competition
 shall be measured for a distance 3 feet 3-1/2 inches (1.0 meter) to 16 feet 5 inches (5.0
 meters) from the end wall. Starting requirements and height of starting block shall be:
