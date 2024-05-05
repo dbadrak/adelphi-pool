@@ -13,6 +13,7 @@ There are two 8 ft stanchions, mounted in-deck with a stanchion sleeve.
 
 1. [Stanchion Sleeve](#stanchion-sleeve)
 1. [Stanchion Pole](#stanchion-pole)
+1. [Stanchion eye bolt collar](#stanchion-eye-bolt-collar]
 1. [Nylon flag rope](#nylon-flag-rope)
 1. [Suspension cable steel rope](#suspension-cable-steel-rope)
 1. [Stainless Steel wire clamps and loops](#stainless-steel-wire-clamps-and-loops)
@@ -21,7 +22,7 @@ There are two 8 ft stanchions, mounted in-deck with a stanchion sleeve.
 1. [Suspension cable mounting ratchets](#suspension-cable-mounting-ratchets)
 1. [Backstroke Flags](#backstroke-flags)
 
-##  Stanchion Sleeve
+## Stanchion Sleeve
   * LINK
   * Cost
   * Bronze
@@ -32,7 +33,7 @@ There are two 8 ft stanchions, mounted in-deck with a stanchion sleeve.
     * 25m pool suspension start side (2)
     * 25m pool suspension turn side (2)
 
-##  Stanchion Pole
+## Stanchion Pole
   * LINK
   * Cost
   * Stainless Steel
@@ -44,7 +45,19 @@ There are two 8 ft stanchions, mounted in-deck with a stanchion sleeve.
     * 25m pool suspension start side (2)
     * 25m pool suspension turn side (2)
 
-##  Nylon flag rope
+## Stanchion eye bolt collar
+  * LINK
+  * Cost
+  * These will be used to adjust the height of the backstroke flags. The mounting ring on the top of the
+    8 ft poles will be at least 7 ft 6 in from the pool deck, and likely 8 ft from the pool surface.  The
+    collars will permit height adjustments for more practical placement of the flags and for easier meet setup
+    (i.e., does not need a super tall person to setup).
+  * Quantity: 6
+    * 25m pool start poles: 2
+    * 25m pool suspension start side (2)
+    * 25m pool suspension turn side (2)
+
+## Nylon flag rope
   * LINK
   * Cost
   * 3/16 in nylon flag rope
@@ -55,7 +68,7 @@ There are two 8 ft stanchions, mounted in-deck with a stanchion sleeve.
   * total: 153 ft minimum
   * recommended: 250 ft
 
-##  Suspension cable steel rope
+## Suspension cable steel rope
   * LINK
   * Cost
   * 3/16 in vinyl-coated steel cable
@@ -63,7 +76,7 @@ There are two 8 ft stanchions, mounted in-deck with a stanchion sleeve.
   * 25m pool lane 1 side (right when looking at the start): 51 ft + 3 ft extra
   * 25m pool lane 6 side (left when looking at the start): 51 ft + 3 ft extra
 
-##  Stainless Steel wire clamps and loops
+## Stainless Steel wire clamps and loops
   * LINK
   * Cost
   * To mount a hook on the suspension cable at the turn end, and to mount the turn end flags at the 5m mark.   The turn
@@ -74,13 +87,13 @@ There are two 8 ft stanchions, mounted in-deck with a stanchion sleeve.
   * loop quantity: 2 
   * clamp quantity: 6 (ends) + 2 (flags) = 8
 
-##  Stainless Steel wire ring
+## Stainless Steel wire ring
   * LINK
   * Cost
   * Mounted with a cable clamp, used to clip on the backstroke flags on the turn side for the 25m pool
   * quantity: 2
   
-##  Stainless Steel swivel hooks
+## Stainless Steel swivel hooks
   * LINK
   * Cost
   * Will connect from the flag rope to the stanchions
@@ -92,13 +105,13 @@ There are two 8 ft stanchions, mounted in-deck with a stanchion sleeve.
   * total: 9
   * recommended: mininum of 10
 
-##  Suspension cable mounting ratchets
+## Suspension cable mounting ratchets
   * LINK
   * Cost
   * Connected at start end only for tightening the cable
   * quantity: 2
 
-##  Backstroke Flags
+## Backstroke Flags
   * LINK
   * Cost
   * 8 ft wide lanes
