@@ -21,6 +21,7 @@ There are two 8 ft stanchions, mounted in-deck with a stanchion sleeve.
 1. [Stainless Steel swivel hooks](#stainless-steel-swivel-hooks)
 1. [Suspension cable mounting ratchets](#suspension-cable-mounting-ratchets)
 1. [Backstroke Flags](#backstroke-flags)
+1. [Stainless Steel caribiners](#stainless-steel-carabiners)
 
 ## Stanchion Sleeve
   * LINK
@@ -129,3 +130,9 @@ There are two 8 ft stanchions, mounted in-deck with a stanchion sleeve.
     * yellow: 36
     * blue: 36
     * 84 in total (7 penants x 6 lanes => 42 x 2 sides  => 84 penants)
+
+## Stainless Steel carabiners
+  * LINK
+  * Cost
+  * To connect from suspension cables to the stanchion at the 25m pool turn end
+  * quantity: 2
