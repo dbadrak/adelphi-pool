@@ -13,7 +13,7 @@ There are two 8 ft stanchions, mounted in-deck with a stanchion sleeve.
 
 1. [Stanchion Sleeve](#stanchion-sleeve)
 1. [Stanchion Pole](#stanchion-pole)
-1. [Stanchion eye bolt collar](#stanchion-eye-bolt-collar]
+1. [Stanchion eye bolt collar](#stanchion-eye-bolt-collar)
 1. [Nylon flag rope](#nylon-flag-rope)
 1. [Suspension cable steel rope](#suspension-cable-steel-rope)
 1. [Stainless Steel wire clamps and loops](#stainless-steel-wire-clamps-and-loops)
