@@ -11,6 +11,16 @@ There are two 8 ft stanchions, mounted in-deck with a stanchion sleeve.
 
 # Parts
 
+1. [Stanchion Sleeve](#stanchion-sleeve)
+1. [Stanchion Pole](#stanchion-pole)
+1. [Nylon flag rope](#nylon-flag-rope)
+1. [Suspension cable steel rope](#suspension-cable-steel-rope)
+1. [Stainless Steel wire clamps and loops](#stainless-steel-wire-clamps-and-loops)
+1. [Stainless Steel wire ring](#stainless-steel-wire-ring)
+1. [Stainless Steel swivel hooks](#stainless-steel-swivel-hooks)
+1. [Suspension cable mounting ratchets](#suspension-cable-mounting-ratchets)
+1. [Backstroke Flags](#backstroke-flags)
+
 ##  Stanchion Sleeve
   * LINK
   * Cost
