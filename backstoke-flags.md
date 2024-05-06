@@ -79,7 +79,10 @@ There are two 8 ft stanchions, mounted in-deck with a stanchion sleeve.
 
 ## Stainless Steel wire clamps and loops
   * LINK
+    * https://www.amazon.com/gp/product/B0CHYC56NM/ref=ewc_pr_img_2?smid=A196V7D6VO3W81&th=1
   * Cost
+    * $16
+  * description: 3/16 in, 12 clamps, 10 loops
   * To mount a hook on the suspension cable at the turn end, and to mount the turn end flags at the 5m mark.   The turn
     end flag mount will be a specific distance from the end so this must be a fixed mounting
   * 3/16 in to match cable
@@ -133,6 +136,9 @@ There are two 8 ft stanchions, mounted in-deck with a stanchion sleeve.
 
 ## Stainless Steel carabiners
   * LINK
+    * https://www.amazon.com/cart/smart-wagon?newItems=fa82a2aa-1f19-42e1-97c0-c9e7e4422789,1&ref_=sw_refresh
   * Cost
+    * $15 (4 pack)
+  * description: 3 in
   * To connect from suspension cables to the stanchion at the 25m pool turn end
   * quantity: 2
